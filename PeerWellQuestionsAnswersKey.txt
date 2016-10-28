@@ -1,0 +1,7 @@
+Who is the founder of PeerWell?,manish
+What street is PeerWell located on?,harrison
+Does the PeerWell app help you recover faster and better from surgery?,yes
+Does the PeerWell app help you prepare your mind and body?,yes
+Does the PeerWell app allow you to reschedule your surgery date?,no
+Does the PeerWell app match you with supportive peers?,yes
+What technique does PeerWell recommend for managing pain?,mindfulness
